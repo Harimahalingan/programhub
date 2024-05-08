@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KGISL IIM</title>
+</head>
+<body>
+    <marquee scrollamount="10" behavior="alternate" >
+    <img src="clg1.jpeg" alt="" width="27%" height="20%" >
+    <img src="clg2.webp" alt="">
+    <img src="clg3.jpg" alt="">
+</marquee>
+    <center><i><h1 style="background-color:red;" id="home">KGiSL IIM</h1></i></center>
+    <marquee scrollamount="20" behavior="alternate"><h2 style="background-color:blue;">Admission Open for MCA</h2></marquee>
+    <center>
+    <b><a style="color:black;background-color: red;"href="#home">HOME</a>
+    <a style="color:black;background-color: red;" href="#course">COURSE</a>
+    <a style="color:black;background-color: red;"href="#faculty">FACULTY</a>
+    <a style="color:black;background-color: red;"href="#ADDON">ADD ON COURSES</a>
+    <a style="color:black;background-color: red;"href="#contact">CONTACT US</a></b>
+    <a style="color:black;background-color: red;"href="#mail">MAIL US</a></b><br>  
+    <hr><h1>KGiSL Institute of Information Management</h1><hr>
+    <p>Established in the year 2002, the KGiSL Institute of Information Management (KGiSL-IIM)<br> enjoys the industry- sponsored institute status sharing the same ambiance and facilities of the sponsors, KGiSL, Coimbatore.<br> Established in the year 2002, the KGiSL Institute of Information</p>
+    <img src="logo.png" width="25%" height="20%">
+    <details>
+        <summary>Read More</summary>
+        <p>The primary advantage of KGiSL-IIM is its location right inside the industry. <br> The Institute provides adequate hands-on experience to its students on all relevant aspects of information and communication technologies.<br> 24×7 Computer centre connected to servers via layer-3 manageable switches, two H4 satellite earth stations located on the campus,<br> International Private Leased Circuits (IPLCS), in-Campus banking facility and ATMs, 24×7 cafeteria, campus medical clinic,<br>
+            Hostels, Gyms are some of the facilities available for KGiSL-IIM.</p></center>
+    </details>
+    <center>
+    <b><h1 style="background-color: red;" id="course">COURSE</h1></b></center>
+    <hr><h2>MCA-Master Of Computer Application</h2><hr>
+    <img src="cs.jpeg" alt="" width="30%" height="25%">
+    <p>MCA stands for Master of Computer Applications, and it is a postgraduate degree course in the field of computer applications.<br> The course is designed to provide students with a comprehensive understanding of computer programming languages, <br>software development, database management, and other related subjects.</p>
+    <p>MCA stands for Master of Computer Applications is a 2-year professional degree course. The course focuses on different branches of Computer Science <br>which majorly include Information Technology, Data Science, Data Structure and Computer Applications.</p>
+    <center><b><h1 style="background-color: blue;" id="course">Faculty</h1></b></center>
+    <h1 id="faculty">MCA Department Staff</h1>
+    <ol>
+       <hr> <P>HEAD OF THE DEPARMENT</P><hr>
+        <li>Alwin james Pinakes</li>
+    </ol>
+    <hr><h2>Staffs</h2><hr>
+    <ol start="2">
+        <li>Saranya</li>
+        <li>Gomathi</li>
+        <li>Suganthipriya</li>
+        <li>Anitha</li>
+        <li>Yemunarani</li>
+    </ol>
+    <hr><h2>OTHER STAFFs</h2><hr>
+    <ol start="7">
+        <li>Library Staff</li>
+        <li>Office staffs</li>
+    </ol>
+    <center>
+    <h1 style="background-color: red;"id="ADDON">ADD-ON COURSES </h1></center>
+    <ul><center>
+        <li style="background-color:blue;">Full Stack</li>
+        <hr><img src="fs.jpg"><hr>
+        <details>
+            <summary>Read More</summary>
+            <p>Full-stack developers design and create websites and applications for various platforms.<br> A full-stack developer's job description might include the following: <br>Develop and maintain web services and interfaces. Contribute to front-end and back-end development processes.<br> Build new product features or APIs.</p>
+            </details>
+        <li style="background-color:blue;">Cyber Security</li>
+        <hr><img src="ccs.jpeg" width="51%"><hr>
+        <details>
+            <summary>Read More</summary>
+            <p>Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks. <br>These cyberattacks are usually aimed at accessing, changing, or destroying sensitive information;<br> extorting money from users via ransomware; or interrupting normal business processes.</p>
+            </details>
+        <li style="background-color:blue;">Data analytics</li>
+        <hr><img src="da.jpeg" width="51%"><hr>
+        <details>
+            <summary>Read More</summary>
+            <p>Data analytics converts raw data into actionable insights. <br>It includes a range of tools, technologies, and processes used to find trends and solve problems by using data.<br> Data analytics can shape business processes, improve decision-making, and foster business growth.</p>
+            </details>
+        <li style="background-color:blue;">Digital marketing</li>
+        <hr><img src="dm.jpg" width="51%"><hr>
+        <details>
+            <summary>Read More</summary>
+            <p>A digital marketing course allows students to efficiently promote <br>and advertise their products and services online through various digital channels and strategies.<br> Digital marketing courses have become one of the educational institutions' <br>most popular course categories these days.</p>
+            </details></center>
+    </ul>
+
+    <footer id="contact">
+        <h1 style="background-color:blue;">Contact Us</h1>
+        <address>
+        <pre>
+        KGISL Institute of Information Management
+        KGiSL Campus, 365, Thudiyalur Road,
+        Saravanampatti, Coimbatore - 641035
+        Phone: +91 98946 94086, +91-98428 66416
+        +91-422 4419999
+        Email: admissions@kgisliim.ac.in
+        </pre></address>
+    </footer>
+    <h2 style="background-color: red;"id="mail">MAIL US</h2>
+    <a href="mailto:hari@gmail.com">E-Mail Link</a><br>
+    <hr><center><a href="">Go to top</a></center><hr>
+    
+
+</body>
+</html>
